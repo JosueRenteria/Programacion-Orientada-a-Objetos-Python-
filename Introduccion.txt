@@ -1,0 +1,15 @@
+Programacion Orientada a Objetos.
+
+¿Que es la programacion Orientada a Objetos?
+Es un paradigma de la programacion, se extraen las cosas del mundo real.
+
+Objetos.
+Es todo lo que nos rodea. Cada objeto tiene caracteristicas y diferentes funciones.
+
+Clases.
+Tienen caracteristicas, la clase es el molde y a partir de estas se pueden hacer mas objetos.
+
+En la POO se puede reutilizar el codigo, codigo en un solo lugar. Con la POO se puede:
+*Reutilizar Codigo.
+*Sistemas Complejos.
+*Facilita el mantenimiento.
