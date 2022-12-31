@@ -1,0 +1,11 @@
+HERENCIA.                       Fecha: 31-Diciembre-2022
+
+Crear una nueva clase a partir de una o mas clases existentes. Con clases primarias, padres, etc.
+
+class NombreSubClase (NombreClaseSuperior):
+
+class ClaseBasa:
+    Cuerpo de la clase base
+
+class DerivadoClase (ClaseBase):
+    Cuerpo de clase base
